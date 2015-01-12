@@ -8,3 +8,5 @@
 
 ##Programming Background
 > Really not much to say here, I orignally graduated in Economics.. As I mentioned a section earlier CS is the only thing that can intelletually hold my interest. It's almost amazing how each day I still start off amazed at how much more there is to know!
+
+Uh-oh, I just read we are going to merge the branch to the master.. Not sure how pretty this is going to look
