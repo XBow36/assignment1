@@ -16,3 +16,5 @@ My **FAVORITE** project from last quarter was definately the Game of Life simula
 Uh-oh, I just read we are going to merge the branch to the master.. Not sure how pretty this is going to look
 
 The merge and using everything through the git shell is definately the most difficult part so far 
+
+#This is the final change!
