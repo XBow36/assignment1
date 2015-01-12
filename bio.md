@@ -10,3 +10,5 @@
 > Really not much to say here, I orignally graduated in Economics.. As I mentioned a section earlier CS is the only thing that can intelletually hold my interest. It's almost amazing how each day I still start off amazed at how much more there is to know!
 
 Oh man, I really should have read ahead and not typed in my programming backgroud '-_-
+
+My **FAVORITE** project from last quarter was definately the Game of Life simulaor; it was a pain in the butt to build and in all honestly I don't think I fully understand how much of a marval that simulation is..
